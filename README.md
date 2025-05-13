@@ -1,6 +1,5 @@
 # Large Language Model Sandboxing
-This project simulates how a LLM can detect and defend against some attacks that are highlighted in the OWASP top 10 for LLM. [1]
-A python tool used for testing some vulnerabilities highlighted in the OWASP top 10 LLM
+This project simulates how a LLM can detect and defend against some attacks that are highlighted in the OWASP top 10 for LLM. [1] This includes: prompt injection, jailbreaking, and data extraction that is unauthorized. 
 
 
 
